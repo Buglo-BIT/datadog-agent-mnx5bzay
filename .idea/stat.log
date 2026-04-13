@@ -1,0 +1,11 @@
+{"ts":1776091460208,"action":"PROJECT_OPENED","tags":{"PROJECT_NAME":"ddagent"}}
+{"ts":1776091461518,"action":"FILE_OPENED","file":"/README.md","tags":{"FILE_LINE_OF_CODE":"12"}}
+{"ts":1776091467739,"action":"FILE_CLOSED","file":"/README.md","tags":{"FILE_LINE_OF_CODE":"12"}}
+{"ts":1776091467739,"action":"FILE_OPENED","file":"/Dockerfile","tags":{"FILE_LINE_OF_CODE":"22"}}
+{"ts":1776091476011,"action":"IDE_DEACTIVATED"}
+{"ts":1776091494195,"action":"IDE_ACTIVATED"}
+{"ts":1776091496411,"action":"FILE_CLOSED","file":"/Dockerfile","tags":{"FILE_LINE_OF_CODE":"22"}}
+{"ts":1776091496411,"action":"FILE_OPENED","file":"/render.yaml","tags":{"FILE_LINE_OF_CODE":"9"}}
+{"ts":1776091534856,"action":"IDE_DEACTIVATED"}
+{"ts":1776091632734,"action":"IDE_ACTIVATED"}
+{"ts":1776091634759,"action":"IDE_DEACTIVATED"}
